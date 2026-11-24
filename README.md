@@ -14,7 +14,7 @@ Hands-on writing about Next.js SaaS, billing, Stripe, Supabase and GEO. Articles
 
 ### [Play Hype Games](https://www.playhypegames.com)
 
-A free browser-game directory with tested notes, verified Roblox codes and open-source port notes. No downloads, no installs. Each game page includes controls, session notes and a cold-fetch test log.
+A free browser-game directory with editor notes, checked Roblox codes and open-source port notes. No downloads, no installs. Each game page includes controls, session notes and a cold-fetch test log.
 
 ## What I work on
 
