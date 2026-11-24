@@ -4,7 +4,7 @@ Software architect and founder. I run **Uncorne**, a small senior-led studio tha
 
 > Not a copilot — the studio that owns the architecture decision.
 
-<img src="assets/doodles/divider.svg" width="100%" alt="">
+<p align="center"><img src="assets/doodles/squiggle.svg" width="200" alt=""></p>
 
 ## Uncorne — SaaS & AI studio
 
@@ -45,7 +45,7 @@ The work section holds working demos built from the briefs clients actually brin
 
 <p align="right"><img src="assets/doodles/signature.png" width="190" alt="Wang Nan"></p>
 
-<img src="assets/doodles/divider.svg" width="100%" alt="">
+<p align="center"><img src="assets/doodles/squiggle.svg" width="200" alt=""></p>
 
 ## make1day.dev
 
