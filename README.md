@@ -1,20 +1,20 @@
-# WangNan
+﻿# WangNan
 
-Software architect and founder. I run **Uncorne**, a small senior-led studio that builds AI SaaS, mobile apps and the cloud architecture underneath them — and I write about the decisions that decide whether a product actually ships.
+Software architect and founder. I run **Uncorne**, a small senior-led studio that builds AI SaaS, mobile apps and the cloud architecture underneath them 鈥?and I write about the decisions that decide whether a product actually ships.
 
-> Not a copilot — the studio that owns the architecture decision.
+> Not a copilot 鈥?the studio that owns the architecture decision.
 
 <p align="center"><img src="assets/doodles/squiggle.svg" width="200" alt=""></p>
 
-## Uncorne — SaaS & AI studio
+## Uncorne 鈥?SaaS & AI studio
 
-<a href="https://www.uncorne.com"><img src="assets/uncorne/hero-card.webp" alt="Uncorne homepage: 'Uncorne turns we should probably build an AI thing into something actually running in production.'"></a>
+<a href="https://www.uncorne.com"><img src="assets/uncorne/homepage-framed.webp" alt="Uncorne homepage: 'Uncorne turns we should probably build an AI thing into something actually running in production.'"></a>
 
-Uncorne is the studio I founded: one senior architect owning the whole stack instead of a handoff chain. The line on the site is the standard I try to hold — you get a system that survives scale, an audit, and the next engineer who touches it, not just a sprint's worth of code.
+Uncorne is the studio I founded: one senior architect owning the whole stack instead of a handoff chain. The line on the site is the standard I try to hold 鈥?you get a system that survives scale, an audit, and the next engineer who touches it, not just a sprint's worth of code.
 
 ### What the studio takes on
 
-<a href="https://www.uncorne.com/#services"><img src="assets/uncorne/services-card.webp" alt="The four Uncorne services: AI SaaS, LLM/RAG and agents, React Native mobile apps, cloud and stability architecture"></a>
+<a href="https://www.uncorne.com/#services"><img src="assets/uncorne/services-framed.webp" alt="The four Uncorne services: AI SaaS, LLM/RAG and agents, React Native mobile apps, cloud and stability architecture"></a>
 
 - **AI SaaS, idea to live.** Architecture plus a production MVP: auth, database, payments, and the AI feature built in rather than bolted on. Next.js, Supabase, Stripe, TypeScript.
 - **LLM, RAG and agents.** Retrieval over your own data with citations and guardrails, plus a way to measure whether the answers actually work. LangGraph, OpenAI / Claude, Dify.
@@ -29,19 +29,19 @@ Background: 17 years shipping software, previously Meituan, Kingsoft Cloud and M
 
 ### Ways to work with the studio
 
-- **MVP sprint** — from **$3.9k**, fixed, 2–4 weeks. Core flows only: auth, database, one AI feature, live in production, code and handover docs.
-- **AI build partnership** — from **$110–160/hr**, hourly. Full-stack and AI architecture, LLM / RAG / agent integration, weekly demos and code review.
-- **Fractional architect** — from **$3k/mo**, monthly. Technical direction and reviews, hiring and team enablement, quarterly roadmap.
+- **MVP sprint** 鈥?from **$3.9k**, fixed, 2鈥? weeks. Core flows only: auth, database, one AI feature, live in production, code and handover docs.
+- **AI build partnership** 鈥?from **$110鈥?60/hr**, hourly. Full-stack and AI architecture, LLM / RAG / agent integration, weekly demos and code review.
+- **Fractional architect** 鈥?from **$3k/mo**, monthly. Technical direction and reviews, hiring and team enablement, quarterly roadmap.
 
 Rates are published on the site and benchmarked against 2026 Upwork data for senior AI and full-stack engineers. If the job is not a fit, the answer is no.
 
 ### Proof, honestly labelled
 
-<a href="https://www.uncorne.com/#work"><img src="assets/uncorne/examples-card.webp" alt="Uncorne example builds: an AI SaaS starter, a RAG agent that cites sources, importable n8n workflows, and a React Native app shell"></a>
+<a href="https://www.uncorne.com/#work"><img src="assets/uncorne/work-framed.webp" alt="Uncorne example builds: an AI SaaS starter, a RAG agent that cites sources, importable n8n workflows, and a React Native app shell"></a>
 
-The work section holds working demos built from the briefs clients actually bring: an AI SaaS starter, a RAG agent that cites its sources, importable n8n workflows, and a React Native app shell. They are open-source examples, not client deliverables — client work stays private under NDA.
+The work section holds working demos built from the briefs clients actually bring: an AI SaaS starter, a RAG agent that cites its sources, importable n8n workflows, and a React Native app shell. They are open-source examples, not client deliverables 鈥?client work stays private under NDA.
 
-→ [uncorne.com](https://www.uncorne.com) · [About](https://www.uncorne.com/#about) · [Blog](https://www.uncorne.com/blog) · [Start a project](https://www.uncorne.com/#contact)
+鈫?[uncorne.com](https://www.uncorne.com) 路 [About](https://www.uncorne.com/#about) 路 [Blog](https://www.uncorne.com/blog) 路 [Start a project](https://www.uncorne.com/#contact)
 
 <p align="right"><img src="assets/doodles/signature.png" width="190" alt="Wang Nan"></p>
 
@@ -57,7 +57,7 @@ The work section holds working demos built from the briefs clients actually brin
 
 ## What I work on
 
-- AI SaaS architecture and production MVPs — Next.js, Supabase, Stripe
+- AI SaaS architecture and production MVPs 鈥?Next.js, Supabase, Stripe
 - LLM retrieval and agent systems, with citations and an evaluation path
 - React Native apps that ship to the App Store once, not twice
 - Cloud architecture: CI/CD, observability, high-concurrency backends
@@ -69,4 +69,5 @@ The work section holds working demos built from the briefs clients actually brin
 - [Play Hype Games author page](https://www.playhypegames.com/author/wangnan)
 - [Browser game load-time index](https://www.playhypegames.com/research/browser-game-load-times)
 - [How we choose the games we list](https://www.playhypegames.com/blog/how-we-choose-games)
-- [X / Twitter — @nanwang_aitalk](https://x.com/nanwang_aitalk)
+- [X / Twitter 鈥?@nanwang_aitalk](https://x.com/nanwang_aitalk)
+
