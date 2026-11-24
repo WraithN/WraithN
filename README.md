@@ -47,7 +47,7 @@ The work section holds working demos built from the briefs clients actually brin
 
 ## make1day.dev
 
-[make1day.dev](https://www.make1day.dev) is where the engineering notes live: hands-on writing about Next.js SaaS, Stripe billing, Supabase and GEO, plus the live demo of the AI SaaS starter. Articles are written against working code, with the contracts and edge cases checked before they are described — which is also why the Uncorne examples are runnable instead of screenshots of a slide deck.
+[make1day.dev](https://www.make1day.dev) is where the engineering notes live: hands-on writing about Next.js SaaS, Stripe billing, Supabase and GEO, plus the live demo of the AI SaaS starter. Articles are written against working code, with the contracts and edge cases checked before they are described.
 
 ## Play Hype Games
 
