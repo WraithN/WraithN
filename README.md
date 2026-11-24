@@ -6,7 +6,11 @@ Software engineer and indie founder. I build production-grade SaaS infrastructur
 
 ### [Uncorne](https://www.uncorne.com)
 
-A configurable, white-labelled AI SaaS starter and the generator that produces each customer build. Next.js starters with real billing, row-level security and machine-readable docs.
+Uncorne is the company behind a configurable, white-labelled AI SaaS starter and the generator that produces each customer build.
+
+The work sits below the AI feature: a Next.js codebase with real subscription billing, account-scoped row-level security and machine-readable documentation. The aim is a foundation that a developer or a coding agent can inspect and extend without losing the invariants that make a SaaS safe to charge for.
+
+It is a starter and generator, not a no-code builder or a finished app to reskin. The engineering notes and the reasoning behind the stack live at [make1day.dev](https://www.make1day.dev).
 
 ### [make1day.dev](https://www.make1day.dev)
 
