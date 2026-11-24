@@ -2,17 +2,19 @@
 
 Software architect and founder. I run **Uncorne**, a small senior-led studio that builds AI SaaS, mobile apps and the cloud architecture underneath them — and I write about the decisions that decide whether a product actually ships.
 
----
+> Not a copilot — the studio that owns the architecture decision.
+
+<img src="assets/doodles/divider.svg" width="100%" alt="">
 
 ## Uncorne — SaaS & AI studio
 
-[![Uncorne homepage: "Uncorne turns 'we should probably build an AI thing' into something actually running in production."](assets/uncorne/hero.webp)](https://www.uncorne.com)
+<a href="https://www.uncorne.com"><img src="assets/uncorne/hero-card.webp" alt="Uncorne homepage: 'Uncorne turns we should probably build an AI thing into something actually running in production.'"></a>
 
 Uncorne is the studio I founded: one senior architect owning the whole stack instead of a handoff chain. The line on the site is the standard I try to hold — you get a system that survives scale, an audit, and the next engineer who touches it, not just a sprint's worth of code.
 
 ### What the studio takes on
 
-[![The four Uncorne services: AI SaaS, LLM/RAG and agents, React Native mobile apps, cloud and stability architecture](assets/uncorne/services.webp)](https://www.uncorne.com/#services)
+<a href="https://www.uncorne.com/#services"><img src="assets/uncorne/services-card.webp" alt="The four Uncorne services: AI SaaS, LLM/RAG and agents, React Native mobile apps, cloud and stability architecture"></a>
 
 - **AI SaaS, idea to live.** Architecture plus a production MVP: auth, database, payments, and the AI feature built in rather than bolted on. Next.js, Supabase, Stripe, TypeScript.
 - **LLM, RAG and agents.** Retrieval over your own data with citations and guardrails, plus a way to measure whether the answers actually work. LangGraph, OpenAI / Claude, Dify.
@@ -27,23 +29,23 @@ Background: 17 years shipping software, previously Meituan, Kingsoft Cloud and M
 
 ### Ways to work with the studio
 
-| Engagement | From | Shape |
-| --- | --- | --- |
-| **MVP sprint** | $3.9k | Fixed, 2–4 weeks: core flows, auth, database, one AI feature, live in production, code and handover docs |
-| **AI build partnership** | $110–160/hr | Hourly: full-stack and AI architecture, LLM / RAG / agent integration, weekly demos and code review |
-| **Fractional architect** | $3k/mo | Monthly: technical direction and reviews, hiring and team enablement, quarterly roadmap |
+- **MVP sprint** — from **$3.9k**, fixed, 2–4 weeks. Core flows only: auth, database, one AI feature, live in production, code and handover docs.
+- **AI build partnership** — from **$110–160/hr**, hourly. Full-stack and AI architecture, LLM / RAG / agent integration, weekly demos and code review.
+- **Fractional architect** — from **$3k/mo**, monthly. Technical direction and reviews, hiring and team enablement, quarterly roadmap.
 
 Rates are published on the site and benchmarked against 2026 Upwork data for senior AI and full-stack engineers. If the job is not a fit, the answer is no.
 
 ### Proof, honestly labelled
 
-[![Uncorne example builds: an AI SaaS starter, a RAG agent that cites sources, importable n8n workflows, and a React Native app shell](assets/uncorne/examples.webp)](https://www.uncorne.com/#work)
+<a href="https://www.uncorne.com/#work"><img src="assets/uncorne/examples-card.webp" alt="Uncorne example builds: an AI SaaS starter, a RAG agent that cites sources, importable n8n workflows, and a React Native app shell"></a>
 
 The work section holds working demos built from the briefs clients actually bring: an AI SaaS starter, a RAG agent that cites its sources, importable n8n workflows, and a React Native app shell. They are open-source examples, not client deliverables — client work stays private under NDA.
 
 → [uncorne.com](https://www.uncorne.com) · [About](https://www.uncorne.com/#about) · [Blog](https://www.uncorne.com/blog) · [Start a project](https://www.uncorne.com/#contact)
 
----
+<p align="right"><img src="assets/doodles/signature.png" width="190" alt="Wang Nan"></p>
+
+<img src="assets/doodles/divider.svg" width="100%" alt="">
 
 ## make1day.dev
 
